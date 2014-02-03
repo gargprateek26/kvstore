@@ -1,4 +1,3 @@
-
 Key Value Store
 =============
 kvstore is yet another implementation of a Key Value store that is implemented on a Client Server Model assuming there to be many of them running concurrently. 
@@ -19,7 +18,7 @@ The Demo Directory contains the files corresponfding to the Client and Server, b
 
 Testing
 -------
-The `kvstore_test.go` file show usage examples and also, perform testing of the implementation. The following test cases have been considered keeping in view that several clients may concurrently bombard the same server with different requests: 
+The `kvstore_test.go` file shows usage examples and also, performs testing of the implementation. The following test cases have been considered keeping in view that several clients may concurrently bombarding the same server with different requests: 
 
 1. Single SET followed by single GET, both by different clients. 
 2. Several SET by various clients, followed by a GET. 
