@@ -8,13 +8,12 @@ The functions of SET, GET and DEL (Delete) have been successfully implemented
 Installation
 ------------
 
-Use `go get github.com/gargprateek26/kvstore`.  Or alternatively,
-download or clone the repository.
+Use `go get github.com/gargprateek26/kvstore`.  Or alternatively, download or clone the repository.
 
 Usage
 -----
 
-The Demo Directory contains the files corresponfding to the Client and Server, both of which are contained in package main.
+The Demo Directory contains the files corresponding to the Client and Server, both of which are contained in package main.
 
 Testing
 -------
