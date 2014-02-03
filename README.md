@@ -22,7 +22,7 @@ The `kvstore_test.go` file shows usage examples and also, performs testing of th
 1. Single SET followed by single GET, both by different clients. 
 2. Several SET by various clients, followed by a GET. 
 3. SET followed by SET (of the same key) followed by GET. 
-4. SET followed by DEL follwed by GET.
+4. SET followed by DEL followed by GET.
 
 
 Maintainer
