@@ -1,5 +1,4 @@
 
-
 Key Value Store
 =============
 kvstore is yet another implementation of a Key Value store that is implemented on a Client Server Model assuming there to be many of them running concurrently. 
@@ -30,7 +29,7 @@ The `kvstore_test.go` file show usage examples and also, perform testing of the 
 
 Maintainer
 ----------
-Prateek Garg ( garg_prateek26[AT]yahoo{DOT]com )
+Prateek Garg ( garg_prateek26[AT]yahoo[DOT]com )
 
 Coding Style
 ------------
